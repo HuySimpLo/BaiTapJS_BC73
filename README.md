@@ -1,3 +1,3 @@
-# BaiTapJS_Buoi5
+# BaiTapJS_BC73
 
-## Link nộp bài tập js buổi 5
+## Link nộp bài tập js 
